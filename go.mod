@@ -7,7 +7,7 @@ toolchain go1.23.4
 require (
 	github.com/compose-spec/compose-go/v2 v2.4.7
 	github.com/google/go-cmp v0.6.0
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.3
 	github.com/tdewolff/argp v0.0.0-20240126212256-acdb2fb50090
 	k8s.io/api v0.32.1
 	k8s.io/apimachinery v0.32.1
